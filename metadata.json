@@ -1,0 +1,6 @@
+{
+  "name": "Acheteur DZ",
+  "description": "Application de gestion des achats (Procure-to-Pay) pour entreprises et startups algériennes : fournisseurs, DA, bons de commande, réceptions chantier, factures et suivi budgétaire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
